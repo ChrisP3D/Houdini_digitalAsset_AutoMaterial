@@ -4,8 +4,9 @@
  Currently only has functionality for Redhfit.
 
 #TODOS
-needs more robust path parsing
 
-functionality for different material networks
+1. Needs more robust path parsing. Integrate regex
 
-functionality for USD
+2. Functionality for different material networks
+
+3. Functionality for USD
