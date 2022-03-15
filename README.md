@@ -7,6 +7,8 @@
 
 1. Needs more robust path parsing. Integrate regex
 
-2. Functionality for different material networks
+2. Check for input, add auto-assign
 
-3. Functionality for USD
+3. Functionality for different render engines
+
+4. Functionality for USD
