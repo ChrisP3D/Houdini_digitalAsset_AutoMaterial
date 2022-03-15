@@ -5,5 +5,7 @@
 
 #TODOS
 needs more robust path parsing
+
 functionality for different material networks
+
 functionality for USD
